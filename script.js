@@ -11,7 +11,8 @@ const sources = [
     { name: 'Andy Hunter', type: 'journalist', tier: 1, workplace: 'Guardian', link: 'ahunterguardian' },
     { name: 'Chris Bascombe', type: 'journalist', tier: 1, workplace: 'Telegraph', link: '_chrisbascombe' },
     { name: 'Simon Peach', type: 'journalist', tier: 1, workplace: 'PA', link: 'SimonPeach' },
-    { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'x', link: 'ElBobble' },
+    { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'X', link: 'ElBobble' },
+    { name: 'Patrick Boyland', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'paddy_boyland' },
     // Tier 2
     { name: 'Adrià Soldevila', type: 'journalist', tier: 2, workplace: 'Goal', link: 'AdriaSoldevila' },
     { name: 'Alfredo Martínez', type: 'journalist', tier: 2, workplace: 'Onda Cero', link: 'Alfremartinezz' },
