@@ -88,18 +88,9 @@ const sources = [
     { name: 'The Sun', type: 'media', tier: 5, link: 'SunSport' },
     { name: 'Twitter ITKs', type: 'media', tier: 5, link: '' },
     // Aggregators
-    { name: 'ActualiteBarca', tier: 'aggregator', link: 'ActualiteBarca' },
-    { name: 'Barca_Buzz', tier: 'aggregator', link: 'Barca_Buzz' },
-    { name: 'barcacentre', tier: 'aggregator', link: 'barcacentre' },
-    { name: 'BarcaTimes', tier: 'aggregator', link: 'BarcaTimes' },
-    { name: 'BarcaUniversal', tier: 'aggregator', link: 'BarcaUniversal' },
-    { name: 'Blaugranagram', tier: 'aggregator', link: 'Blaugranagram' },
-    { name: 'Fabrizio Romano', tier: 'aggregator', link: 'FabrizioRomano' },
-    { name: 'FCBarcelonaFl', tier: 'aggregator', link: 'FCBarcelonaFl' },
-    { name: 'GSpanishFN', tier: 'aggregator', link: 'GSpanishFN' },
-    { name: 'infosfcb', tier: 'aggregator', link: 'infosfcb' },
-    { name: 'LaSenyera', tier: 'aggregator', link: 'LaSenyera' },
-    { name: 'Reshad Rahman', tier: 'aggregator', link: 'ReshadFCB' },
+    { name: 'EFC DAILY', tier: 'aggregator', link: 'EFCDaily_' },
+    { name: 'Everton Extra', tier: 'aggregator', link: 'Everton_Extra' },
+    { name: 'EvertonNewsFeed', tier: 'aggregator', link: 'EvertonNewsFeed' },
 ];
 
 sources.forEach(source => {
