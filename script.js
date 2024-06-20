@@ -6,12 +6,12 @@ const update = {
 const sources = [
     // Tier 1
     { name: 'David Ornstein', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'David_Ornstein' },
-    { name: 'Albert Rogé', type: 'journalist', tier: 1, workplace: 'Sport', link: 'albert_roge' },
-    { name: 'Edu Polo', type: 'journalist', tier: 1, workplace: 'MD', link: 'EduPolo' },
-    { name: 'Fernando Polo', type: 'journalist', tier: 1, workplace: 'MD', link: 'ffpolo' },
-    { name: 'Matteo Moretto', type: 'journalist', tier: 1, workplace: 'Relevo', link: 'MatteMoretto' },
-    { name: 'Ramón Fuentes', type: 'journalist', tier: 1, workplace: 'MD', link: 'ramonfuentes74' },
-    { name: 'Xavi Campos', type: 'journalist', tier: 1, workplace: 'CatRadio', link: 'xavicampos' },
+    { name: 'Paul Joyce, type: 'journalist', tier: 1, workplace: 'The Times', link: '_pauljoyce' },
+    { name: 'Dominic King', type: 'journalist', tier: 1, workplace: 'Daily Mail', link: 'DominicKing_DM' },
+    { name: 'Andy Hunter', type: 'journalist', tier: 1, workplace: 'Guardian', link: 'ahunterguardian' },
+    { name: 'Chris Bascombe', type: 'journalist', tier: 1, workplace: 'Telegraph', link: '_chrisbascombe' },
+    { name: 'Simon Peach', type: 'journalist', tier: 1, workplace: 'PA', link: 'SimonPeach' },
+    { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'x', link: 'ElBobble' },
     // Tier 2
     { name: 'Adrià Soldevila', type: 'journalist', tier: 2, workplace: 'Goal', link: 'AdriaSoldevila' },
     { name: 'Alfredo Martínez', type: 'journalist', tier: 2, workplace: 'Onda Cero', link: 'Alfremartinezz' },
