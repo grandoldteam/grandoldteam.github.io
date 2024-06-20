@@ -1,12 +1,12 @@
 const update = {
     thread: 'https://www.grandoldteam.com',
-    time: 1718755200000
+    time: 1718895600000
 }
 
 const sources = [
     // Tier 1
     { name: 'David Ornstein', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'David_Ornstein' },
-    { name: 'Paul Joyce, type: 'journalist', tier: 1, workplace: 'The Times', link: 'pauljoyce' },
+    { name: 'Paul Joyce', type: 'journalist', tier: 1, workplace: 'The Times', link: 'pauljoyce' },
     { name: 'Dominic King', type: 'journalist', tier: 1, workplace: 'Daily Mail', link: 'DominicKing_DM' },
     { name: 'Andy Hunter', type: 'journalist', tier: 1, workplace: 'Guardian', link: 'ahunterguardian' },
     { name: 'Chris Bascombe', type: 'journalist', tier: 1, workplace: 'Telegraph', link: 'chrisbascombe' },
