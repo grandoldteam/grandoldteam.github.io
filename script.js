@@ -24,21 +24,12 @@ const sources = [
     { name: 'Lewis Steele', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'LewisSteele_' },
     { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'LivEchoEFC' },
     // Tier 3
-    { name: 'Adrià Albets', type: 'journalist', tier: 3, workplace: 'Cadena SER', link: 'AdriaAlbets' },
-    { name: 'ARA', type: 'media', tier: 3, link: 'ARAesports' },
-    { name: 'Cadena COPE', type: 'media', tier: 3, link: 'partidazocope' },
-    { name: 'Mundo Deportivo', type: 'media', tier: 3, link: 'mundodeportivo' },
-    { name: 'Onda Cero', type: 'media', tier: 3, link: 'OndaCero_es' },
+    { name: 'Pete O Rourke', type: 'journalist', tier: 4, workplace: 'Football Insider', link: 'SportsPeteO' },
     // Tier 4
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 4, workplace: 'Sky Sports', link: 'skykaveh' },
     { name: 'Nicolò Schira', type: 'journalist', tier: 4, workplace: 'X', link: 'NicoSchira' },
-    { name: 'Pete O Rourke', type: 'journalist', tier: 4, workplace: 'Football Insider', link: 'SportsPeteO' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 4, workplace: 'X', link: 'sachatavolieri' },
-    { name: 'Luis Miguelsanz', type: 'journalist', tier: 4, workplace: 'Sport', link: '' },
-    { name: 'Radio Marca', type: 'media', tier: 4, link: 'RadioMARCA' },
-    { name: 'Sport', type: 'media', tier: 4, link: 'sport' },
     { name: 'The Mirror', type: 'media', tier: 4, link: 'MirrorFootball' },
-    { name: 'Tuttosport', type: 'media', tier: 4, link: 'tuttosport' },
     // Tier 5
     { name: 'Tom Sanderson', type: 'journalist', tier: 5, workplace: 'Forbes', link: 'TomSandersonBCN' },
     { name: '90min', type: 'media', tier: 5, link: '90min_Football' },
