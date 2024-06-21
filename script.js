@@ -1,6 +1,6 @@
 const update = {
     thread: 'https://www.grandoldteam.com',
-    time: 1718895600000
+    time: 1718961401330
 }
 
 const sources = [
