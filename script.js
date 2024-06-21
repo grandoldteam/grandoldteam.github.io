@@ -13,6 +13,8 @@ const sources = [
     { name: 'Simon Peach', type: 'journalist', tier: 1, workplace: 'PA', link: 'SimonPeach' },
     { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'X', link: 'ElBobble' },
     { name: 'Patrick Boyland', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'Paddy_Boyland' },
+    { name: 'Shamoon Hafez', type: 'journalist', tier: 1, workplace: 'BBC', link: 'ShamoonHafez' },
+
     // Tier 2
     { name: 'Adam Jones', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'Adam_Jones94' },
     { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'AlanMyersMedia' },
@@ -20,10 +22,7 @@ const sources = [
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'X', link: 'FabrizioRomano' },
     { name: 'Joe Thomas', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'joe_thomas18' },
     { name: 'Lewis Steele', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'LewisSteele_' },
-    { name: 'Cadena SER', type: 'media', tier: 2, link: 'QueThiJugues' },
-    { name: 'Catalunya Radio', type: 'media', tier: 2, link: 'Catradioesports' },
-    { name: 'RAC1', type: 'media', tier: 2, link: 'EsportsRAC1' },
-    { name: 'TV3 Cat', type: 'media', tier: 2, link: 'OnzeTv3' },
+    { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'https://x.com/LivEchoEFC' },
     // Tier 3
     { name: 'Adrià Albets', type: 'journalist', tier: 3, workplace: 'Cadena SER', link: 'AdriaAlbets' },
     { name: 'ARA', type: 'media', tier: 3, link: 'ARAesports' },
