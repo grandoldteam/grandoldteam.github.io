@@ -33,7 +33,7 @@ const sources = [
     // Tier 4
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 4, workplace: 'Sky Sports', link: 'skykaveh' },
     { name: 'Nicolò Schira', type: 'journalist', tier: 4, workplace: 'X', link: 'NicoSchira' },
-    { name: 'Pete O'Rourke', type: 'journalist', tier: 4, workplace: 'Football Insider', link: 'SportsPeteO' },
+    { name: 'Pete O Rourke', type: 'journalist', tier: 4, workplace: 'Football Insider', link: 'SportsPeteO' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 4, workplace: 'X', link: 'sachatavolieri' },
     { name: 'Luis Miguelsanz', type: 'journalist', tier: 4, workplace: 'Sport', link: '' },
     { name: 'Radio Marca', type: 'media', tier: 4, link: 'RadioMARCA' },
