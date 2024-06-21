@@ -22,7 +22,7 @@ const sources = [
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'X', link: 'FabrizioRomano' },
     { name: 'Joe Thomas', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'joe_thomas18' },
     { name: 'Lewis Steele', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'LewisSteele_' },
-    { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'https://x.com/LivEchoEFC' },
+    { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'LivEchoEFC' },
     // Tier 3
     { name: 'Adrià Albets', type: 'journalist', tier: 3, workplace: 'Cadena SER', link: 'AdriaAlbets' },
     { name: 'ARA', type: 'media', tier: 3, link: 'ARAesports' },
