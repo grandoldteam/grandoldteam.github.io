@@ -21,7 +21,7 @@ const sources = [
     { name: 'Shamoon Hafez', type: 'journalist', tier: 2, workplace: 'BBC', link: 'ShamoonHafez' },
     { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'LivEchoEFC' },
     // Tier 3
-    { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Transfers Podcast', link: 'DuncanCastles' }
+    { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Transfers Podcast', link: 'DuncanCastles' },
     { name: 'Lewis Steele', type: 'journalist', tier: 3, workplace: 'Daily Mail', link: 'LewisSteele_' },
     { name: 'Pete O Rourke', type: 'journalist', tier: 3, workplace: 'Football Insider', link: 'SportsPeteO' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 3, workplace: 'X', link: 'sachatavolieri' },
