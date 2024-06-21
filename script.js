@@ -62,7 +62,7 @@ document.querySelectorAll('.tier-content').forEach(node => {
 
 document.querySelector('.tier-aggregator .tier-content').appendChild(
     document.createRange().createContextualFragment(
-        `<div class="tier-notes">Note that the above accounts are just news aggregators. They merely report transfer related stories and rumors, but are not the actual source of the story itself. Please post original sources.</div>`
+        `<div class="tier-notes">News aggregators merely report transfer related stories from elsewhere, but are not the actual source of the story itself. Please make an effort to post/share original sources.</div>`
     )
 );
 
