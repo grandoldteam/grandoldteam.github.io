@@ -27,11 +27,12 @@ const sources = [
     { name: 'Pete O Rourke', type: 'journalist', tier: 4, workplace: 'Football Insider', link: 'SportsPeteO' },
     // Tier 4
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 4, workplace: 'Sky Sports', link: 'skykaveh' },
-    { name: 'Nicolò Schira', type: 'journalist', tier: 4, workplace: 'X', link: 'NicoSchira' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 4, workplace: 'X', link: 'sachatavolieri' },
     { name: 'The Mirror', type: 'media', tier: 4, link: 'MirrorFootball' },
     // Tier 5
-    { name: 'Tom Sanderson', type: 'journalist', tier: 5, workplace: 'Forbes', link: 'TomSandersonBCN' },
+    { name: 'Nicolò Schira', type: 'journalist', tier: 5, workplace: 'X', link: 'NicoSchira' },
+    { name: 'RossAftbl', type: 'journalist', tier: 5, workplace: 'X', link: 'RossAftbl' },
+    { name: 'Toffee Transfers', type: 'journalist', tier: 5, workplace: 'X', link: 'TransfersToffee' },
     { name: '90min', type: 'media', tier: 5, link: '90min_Football' },
     { name: 'Goodison News', type: 'media', tier: 5, link: 'GoodisonNews' },
     // Aggregators
