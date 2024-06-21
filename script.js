@@ -23,7 +23,7 @@ const sources = [
     { name: 'Lewis Steele', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'LewisSteele_' },
     { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'LivEchoEFC' },
     // Tier 3
-    { name: 'Pete O Rourke', type: 'journalist', tier: 4, workplace: 'Football Insider', link: 'SportsPeteO' },
+    { name: 'Pete O Rourke', type: 'journalist', tier: 3, workplace: 'Football Insider', link: 'SportsPeteO' },
     // Tier 4
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 4, workplace: 'Sky Sports', link: 'skykaveh' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 4, workplace: 'X', link: 'sachatavolieri' },
