@@ -6,19 +6,19 @@ const update = {
 const sources = [
     // Tier 1
     { name: 'Andy Hunter', type: 'journalist', tier: 1, workplace: 'Guardian', link: 'ahunterguardian' },
-    { name: 'Chris Bascombe', type: 'journalist', tier: 1, workplace: 'Telegraph', link: '_chrisbascombe' },
     { name: 'David Ornstein', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'David_Ornstein' },
     { name: 'Patrick Boyland', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'Paddy_Boyland' },
     { name: 'Paul Joyce', type: 'journalist', tier: 1, workplace: 'The Times', link: '_pauljoyce' },
-    { name: 'Sam Wallace', type: 'journalist', tier: 1, workplace: 'Telegraph', link: 'SamWallaceTel' },
     { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'X', link: 'ElBobble' },
     // Tier 2
     { name: 'Adam Jones', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'Adam_Jones94' },
     { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'AlanMyersMedia' },
+    { name: 'Chris Bascombe', type: 'journalist', tier: 2, workplace: 'Telegraph', link: '_chrisbascombe' },
     { name: 'Dominic King', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'DominicKing_DM' },
     { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'X', link: 'FabrizioRomano' },
     { name: 'Joe Thomas', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'joe_thomas18' },
     { name: 'Shamoon Hafez', type: 'journalist', tier: 2, workplace: 'BBC', link: 'ShamoonHafez' },
+    { name: 'Sam Wallace', type: 'journalist', tier: 2, workplace: 'Telegraph', link: 'SamWallaceTel' },
     { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'LivEchoEFC' },
     // Tier 3
     { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Transfers Podcast', link: 'DuncanCastles' },
