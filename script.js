@@ -1,6 +1,6 @@
 const update = {
     thread: 'https://www.grandoldteam.com',
-    time: 1718961401330
+    time: 1719047801000
 }
 
 const sources = [
@@ -23,6 +23,7 @@ const sources = [
     // Tier 3
     { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Transfers Podcast', link: 'DuncanCastles' },
     { name: 'Lewis Steele', type: 'journalist', tier: 3, workplace: 'Daily Mail', link: 'LewisSteele_' },
+    { name: 'Luke Edwards', type: 'journalist', tier: 3, workplace: 'The Telegraph', link: 'LukeEdwardsTele' },
     { name: 'Pete O Rourke', type: 'journalist', tier: 3, workplace: 'Football Insider', link: 'SportsPeteO' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 3, workplace: 'X', link: 'sachatavolieri' },
     // Tier 4
@@ -32,6 +33,7 @@ const sources = [
     { name: 'Nicolò Schira', type: 'journalist', tier: 5, workplace: 'X', link: 'NicoSchira' },
     { name: 'RossAftbl', type: 'journalist', tier: 5, workplace: 'X', link: 'RossAftbl' },
     { name: 'Toffee Transfers', type: 'journalist', tier: 5, workplace: 'X', link: 'TransfersToffee' },
+    { name: 'The Esk', type: 'journalist', tier: 5, workplace: 'X', link: 'theesk' },
     { name: '90min', type: 'media', tier: 5, link: '90min_Football' },
     { name: 'Goodison News', type: 'media', tier: 5, link: 'GoodisonNews' },
     // Aggregators
