@@ -11,7 +11,6 @@ const sources = [
     { name: 'Paul Joyce', type: 'journalist', tier: 1, workplace: 'The Times', link: '_pauljoyce' },
     { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'X', link: 'ElBobble' },
     // Tier 2
-    { name: 'Adam Jones', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'Adam_Jones94' },
     { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'AlanMyersMedia' },
     { name: 'Chris Bascombe', type: 'journalist', tier: 2, workplace: 'Telegraph', link: '_chrisbascombe' },
     { name: 'Dominic King', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'DominicKing_DM' },
