@@ -1,6 +1,6 @@
 const update = {
     thread: 'https://www.grandoldteam.com',
-    time: 1719047801000
+    time: 1719360000000
 }
 
 const sources = [
@@ -31,6 +31,7 @@ const sources = [
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 5, workplace: 'Sky Sports', link: 'skykaveh' },
     { name: 'Nicolò Schira', type: 'journalist', tier: 5, workplace: 'X', link: 'NicoSchira' },
     { name: 'RossAftbl', type: 'journalist', tier: 5, workplace: 'X', link: 'RossAftbl' },
+    { name: 'Santi Aouna', type: 'journalist', tier: 5, workplace: 'Foot Mercato', link: 'Santi Aouna' },
     { name: 'Toffee Transfers', type: 'journalist', tier: 5, workplace: 'X', link: 'TransfersToffee' },
     { name: 'The Esk', type: 'journalist', tier: 5, workplace: 'X', link: 'theesk' },
     { name: '90min', type: 'media', tier: 5, link: '90min_Football' },
