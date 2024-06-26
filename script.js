@@ -25,7 +25,7 @@ const sources = [
     { name: 'Pete O Rourke', type: 'journalist', tier: 3, workplace: 'Football Insider', link: 'SportsPeteO' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 3, workplace: 'X', link: 'sachatavolieri' },
     // Tier 4
-    { name: 'Liverpool Echo', type: 'media', tier: 2, link: 'LivEchoEFC' },
+    { name: 'Liverpool Echo', type: 'media', tier: 4, link: 'LivEchoEFC' },
     { name: 'The Mirror', type: 'media', tier: 4, link: 'MirrorFootball' },
     // Tier 5
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 5, workplace: 'Sky Sports', link: 'skykaveh' },
