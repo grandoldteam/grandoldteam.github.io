@@ -35,6 +35,7 @@ const sources = [
     { name: 'Toffee Transfers', type: 'journalist', tier: 5, workplace: 'X', link: 'TransfersToffee' },
     { name: 'The Esk', type: 'journalist', tier: 5, workplace: 'X', link: 'theesk' },
     { name: '90min', type: 'media', tier: 5, link: '90min_Football' },
+    { name: 'Football Insider', type: 'media', tier: 5, link: 'footyinsider247' },
     { name: 'Goodison News', type: 'media', tier: 5, link: 'GoodisonNews' },
     // Aggregators
     { name: 'EFC DAILY', tier: 'aggregator', link: 'EFCDaily_' },
