@@ -15,7 +15,7 @@ const sources = [
     { name: 'BBC Merseyside', type: 'media', tier: 1, link: 'bbcmerseysport' },
 
     // Tier 2
-    { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'AlanMyersMedia' },
+    { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Freelance', link: 'AlanMyersMedia' },
     { name: 'Ben Grounds', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'Ben_Islington' },
     { name: 'Chris Bascombe', type: 'journalist', tier: 2, workplace: 'Telegraph', link: '_chrisbascombe' },
     { name: 'Dominic King', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'DominicKing_DM' },
