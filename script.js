@@ -19,7 +19,7 @@ const sources = [
     { name: 'Sam Wallace', type: 'journalist', tier: 2, workplace: 'Telegraph', link: 'SamWallaceTel' },
     // Tier 3
     { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Transfers Podcast', link: 'DuncanCastles' },
-    { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'X', link: 'FabrizioRomano' },
+    { name: 'Fabrizio Romano', type: 'journalist', tier: 3, workplace: 'X', link: 'FabrizioRomano' },
     { name: 'Lewis Steele', type: 'journalist', tier: 3, workplace: 'Daily Mail', link: 'LewisSteele_' },
     { name: 'Luke Edwards', type: 'journalist', tier: 3, workplace: 'The Telegraph', link: 'LukeEdwardsTele' },
     { name: 'Pete O Rourke', type: 'journalist', tier: 3, workplace: 'Football Insider', link: 'SportsPeteO' },
