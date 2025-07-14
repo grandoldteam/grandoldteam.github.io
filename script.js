@@ -11,7 +11,7 @@ const sources = [
     { name: 'Patrick Boyland', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'Paddy_Boyland' },
     { name: 'Paul Joyce', type: 'journalist', tier: 1, workplace: 'The Times', link: '_pauljoyce' },
     { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'X', link: 'ElBobble' },
-    { name: 'Tofeenut', type: 'member', tier: 1, workplace: 'GrandOldTeam Forum', link: 'tofeenut.52862' },
+    { name: 'Tofeenut', type: 'journalist', tier: 1, workplace: 'GrandOldTeam Forum', link: '' },
     { name: 'BBC Merseyside', type: 'media', tier: 1, link: 'bbcmerseysport' },
 
     // Tier 2
