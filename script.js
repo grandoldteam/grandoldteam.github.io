@@ -28,7 +28,9 @@ const sources = [
     { name: 'Rudy Galetti', type: 'journalist', tier: 3, workplace: 'X / Sport Mediaset', link: 'RudyGaletti' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 3, workplace: 'X', link: 'sachatavolieri' },
     // Tier 4
+    { name: 'CaughtOffside', type: 'media', tier: 4, link: 'caughtoffside' },
     { name: 'Liverpool Echo', type: 'media', tier: 4, link: 'LivEchoEFC' },
+    { name: 'TEAMtalk', type: 'media', tier: 4, link: 'TEAMtalk' },
     { name: 'The Mirror', type: 'media', tier: 4, link: 'MirrorFootball' },
     // Tier 5
     { name: 'Kaveh Solhekol', type: 'journalist', tier: 5, workplace: 'Sky Sports', link: 'skykaveh' },
