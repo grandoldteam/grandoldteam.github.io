@@ -7,11 +7,13 @@ const sources = [
     // Tier 1
     { name: 'Andy Hunter', type: 'journalist', tier: 1, workplace: 'Guardian', link: 'ahunterguardian' },
     { name: 'David Ornstein', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'David_Ornstein' },
+    { name: 'Matt Law', type: 'journalist', tier: 1, workplace: 'The Telegraph', link: 'matt_law_dt' },
     { name: 'Patrick Boyland', type: 'journalist', tier: 1, workplace: 'The Athletic', link: 'Paddy_Boyland' },
     { name: 'Paul Joyce', type: 'journalist', tier: 1, workplace: 'The Times', link: '_pauljoyce' },
     { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'X', link: 'ElBobble' },
     // Tier 2
     { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'AlanMyersMedia' },
+    { name: 'Ben Grounds', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'Ben_Islington' },
     { name: 'Chris Bascombe', type: 'journalist', tier: 2, workplace: 'Telegraph', link: '_chrisbascombe' },
     { name: 'Dominic King', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'DominicKing_DM' },
     { name: 'Joe Thomas', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'joe_thomas18' },
@@ -23,6 +25,7 @@ const sources = [
     { name: 'Lewis Steele', type: 'journalist', tier: 3, workplace: 'Daily Mail', link: 'LewisSteele_' },
     { name: 'Luke Edwards', type: 'journalist', tier: 3, workplace: 'The Telegraph', link: 'LukeEdwardsTele' },
     { name: 'Pete O Rourke', type: 'journalist', tier: 3, workplace: 'Football Insider', link: 'SportsPeteO' },
+    { name: 'Rudy Galetti', type: 'journalist', tier: 3, workplace: 'X / Sport Mediaset', link: 'RudyGaletti' },
     { name: 'Sacha Tavolieri', type: 'journalist', tier: 3, workplace: 'X', link: 'sachatavolieri' },
     // Tier 4
     { name: 'Liverpool Echo', type: 'media', tier: 4, link: 'LivEchoEFC' },
