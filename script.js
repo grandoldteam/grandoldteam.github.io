@@ -1,6 +1,6 @@
 const update = {
     thread: 'https://www.grandoldteam.com',
-    time: 1751978400000
+    time: 1752470400000
 }
 
 const sources = [
@@ -14,12 +14,12 @@ const sources = [
     { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'AlanMyersMedia' },
     { name: 'Chris Bascombe', type: 'journalist', tier: 2, workplace: 'Telegraph', link: '_chrisbascombe' },
     { name: 'Dominic King', type: 'journalist', tier: 2, workplace: 'Daily Mail', link: 'DominicKing_DM' },
-    { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'X', link: 'FabrizioRomano' },
     { name: 'Joe Thomas', type: 'journalist', tier: 2, workplace: 'Liverpool Echo', link: 'joe_thomas18' },
     { name: 'Shamoon Hafez', type: 'journalist', tier: 2, workplace: 'BBC', link: 'ShamoonHafez' },
     { name: 'Sam Wallace', type: 'journalist', tier: 2, workplace: 'Telegraph', link: 'SamWallaceTel' },
     // Tier 3
     { name: 'Duncan Castles', type: 'journalist', tier: 3, workplace: 'Transfers Podcast', link: 'DuncanCastles' },
+    { name: 'Fabrizio Romano', type: 'journalist', tier: 2, workplace: 'X', link: 'FabrizioRomano' },
     { name: 'Lewis Steele', type: 'journalist', tier: 3, workplace: 'Daily Mail', link: 'LewisSteele_' },
     { name: 'Luke Edwards', type: 'journalist', tier: 3, workplace: 'The Telegraph', link: 'LukeEdwardsTele' },
     { name: 'Pete O Rourke', type: 'journalist', tier: 3, workplace: 'Football Insider', link: 'SportsPeteO' },
@@ -33,7 +33,6 @@ const sources = [
     { name: 'RossAftbl', type: 'journalist', tier: 5, workplace: 'X', link: 'RossAftbl' },
     { name: 'Santi Aouna', type: 'journalist', tier: 5, workplace: 'Foot Mercato', link: 'Santi Aouna' },
     { name: 'Toffee Transfers', type: 'journalist', tier: 5, workplace: 'X', link: 'TransfersToffee' },
-    { name: 'The Esk', type: 'journalist', tier: 5, workplace: 'X', link: 'theesk' },
     { name: '90min', type: 'media', tier: 5, link: '90min_Football' },
     { name: 'Football Insider', type: 'media', tier: 5, link: 'footyinsider247' },
     { name: 'Goodison News', type: 'media', tier: 5, link: 'GoodisonNews' },
