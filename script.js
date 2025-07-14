@@ -12,6 +12,8 @@ const sources = [
     { name: 'Paul Joyce', type: 'journalist', tier: 1, workplace: 'The Times', link: '_pauljoyce' },
     { name: 'The Bobble', type: 'journalist', tier: 1, workplace: 'X', link: 'ElBobble' },
     { name: 'Tofeenut', type: 'journalist', tier: 1, workplace: 'GrandOldTeam Forum', link: '' },
+    { name: 'BBC Merseyside', type: 'media', tier: 1, link: 'bbcmerseysport' },
+
     // Tier 2
     { name: 'Alan Myers', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'AlanMyersMedia' },
     { name: 'Ben Grounds', type: 'journalist', tier: 2, workplace: 'Sky Sports', link: 'Ben_Islington' },
@@ -49,14 +51,15 @@ const sources = [
 ];
 
 sources.forEach(source => {
+    const href = source.type === 'member' ? `https://www.grandoldteam.com/forum/members/` : `https://x.com/${source.link}`;
     document.querySelector(`.tier-${source.tier} .tier-content`).appendChild(
         document.createRange().createContextualFragment(
-            `<a class="source ${source.type === 'journalist' ? 'journalist' : source.type === 'media' ? 'media' : 'aggregator'}" href="https://x.com/${source.link}" target="_blank">
+            `<a class="source ${source.type === 'journalist' ? 'journalist' : source.type === 'media' ? 'media' : source.type === 'member' ? 'member' : 'aggregator'}" href="${href}" target="_blank">
             ${source.type !== 'journalist' ? source.name : `${source.name} <span class="workplace">(${source.workplace})</span>`}
             </a>`
         )
     );
-})
+});
 
 document.querySelectorAll('.tier-content').forEach(node => {
     const element = node.querySelector('.media, .aggregator');
